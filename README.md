@@ -4,4 +4,3 @@ O Intuito desde projeto é estudar SQL, PL/SQL e Git/GitHub simultaneamente.
 - teste2;
 - teste3;
 - teste4;
-asfasd
